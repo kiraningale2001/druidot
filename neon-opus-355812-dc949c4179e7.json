@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neon-opus-355812",
+  "private_key_id": "dc949c4179e7ebe3ac3fc253171919109192e728",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk82md2Ojl2hp4\nSFZUmpWxt+V3njubmKsuDwUWWA7vcBfXQ19vVGhidSWV+jpdCxQsdSfIS7RLlAPr\ngFijtCBcoIMQnLHfte4JHfzI853zKaq4FU5Qi/KVmlmleh/AghIGMYkCwW37YQaH\nlqtghVa9w/vqfSoFmmEJUGWWpUVv/wGxxX+uoUYHDzWqAg/EJ7GsggnWOuwzkWxU\nBIxsZspz6qJgrAaNmNLBr95yI7dcq1BLKIhZRCdkw4K8vUvorq+1HrhOL0WLzo0M\n7ItWzz5YVw+Dcu7mJ5folnWR6njDiOmbyqadryAN/ShxoJrOMxP2iQbL4F3fw5uR\nbXvJPn9FAgMBAAECggEABUj2d/DZbXV/TNFMhGnVJM+QK5strIuUshh+TW8rpoiz\nfgzFKjgzHzLcetSv0zrypFLQoBgRqJMPTEr3DBYbLCL8cA2ez8Mj44J+Qe+d5PE1\n0uLj30X/0ylFEnDT3NAnq0kh0a1iGVOZHCkIrqjQoaqw3JxMB2GHfTJO2I4zdL+5\nInQ4ulgMnoC1xIJJafchdBNpo3lPkyd6sXB9DG7Vlru7VzwomWVCwfKNtvIz7JPH\nuDr9bbgBvTbKDDueVNIwCY0VtRCkwpNoFyxZotTIXvvt9i9pnpj69kn58EzX1G/s\n5P2WEcB2++8RfsIlzJgglCeCuOBEkxIR0om5Xm3AYQKBgQDO1M7e+ygO6UEo77UY\n/lTCunRXq4AAKZMGEiz2J1ZNYLgFMd6uG9+yJXMgdAPzA8wYyxJ0J6t9FzZAEcd+\nqn7Cq5+htN6ucIh8DlX0LlNR6KXLlvxjAPcye1UIhNU92FDiReLwdLWMLkq7VAGH\nKhzHzo2dZyNxC5E0hplwsVczLQKBgQDMKd+i8tLzQ3xVMUjNxzI4js42XMuR4toc\ngfjuvewU6eCzmFhf73waDNmd1+azmShtjog78xkDAbqCHELbdBvHOeHh1u/0zyD4\nqZVMCRm7W1gzKIvuFeHpTrX5g4oCm6llEzs9yZI5iLDpMu1aKhtGZEufkyP8r36j\nPmGNA2HreQKBgBIRWwT1kblDvRJzZjGJviPIn/MsoyDggNxt6AmUxCA8S7cAdUBm\nZPMt/FGgcNvgwAqGatVExeFGjtGn+/JfuHUPAwHgR/ebEwErS2zqQxMLrLgNN3z6\nj52UUohM+kfNxrsNedahi150iMi2fO+uyRbXP125rcnpRcT94ReMFl79AoGBAKQ8\nSxraG7h1YV9m9hoTU+MLffddTqVcx/iG1am4PmHUgl32/6CtFjgefjDrrTpsyojX\nT+Bp/oTcrxxbf6zqCi6J8ZurO/zDYtKmGOPBrmF5aco9o9My5zi3iMvfdPYEIpCc\nl9tse6SswSPXQ/h0Rtypcew8gYaT5luLow282tiBAoGAPJf+hFH7VrIHoOwHwpn/\nQFd9bZKjfYelLALwYTW94vtT5HURLshqIQIU4ld7nNwleAzlRW3GD7dqUrdkCpvQ\nUDSPk5Yp5trwK4BOmiiv1+D1b8uNGrqD3UX+4nmwJ2M1713AQXfJtVsgo1qfTFjs\ngJzjGfVenju7edAwZOBH78A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "druidot-consulting@neon-opus-355812.iam.gserviceaccount.com",
+  "client_id": "109534057778404789852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/druidot-consulting%40neon-opus-355812.iam.gserviceaccount.com"
+}
